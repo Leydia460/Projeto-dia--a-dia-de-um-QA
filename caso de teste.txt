@@ -1,0 +1,30 @@
+
+
+Eu como usuario necessito que ao acessar a pagina swaglabs
+
+1° campo email aceite formato global.
+
+2° campo senha seja preenchido e emita mensagem de alerta.
+
+
+Acesso com sucesso
+DADO que acesso a pagina do swaglabs
+QUANDO preencho o campo email senha
+E clico no botão login
+ENTÃO acesso com sucesso
+
+
+Acesso sem sucesso
+DADO que o usuario acessa a pagina do swaglabs
+QUANDO o usuario preenche os campos email e senha com dados invalido
+QUANDO o usuario clica no botão login
+ENTÃO recebo mensagem de alerta "error-message-container error"
+
+
+CarolinaSL
+
+Ao efetuar uma compra sem selecionar items, e efetuada com sucesso. 
+
+
+Criação de telas para o cliente ter acesso ao login aos departamentos e 
+reliazar a compra.

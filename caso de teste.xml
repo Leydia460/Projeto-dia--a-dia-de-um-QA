@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10001</projectId>
+    <projectKey>SWAG</projectKey>
+    <exportDate>2022-12-28 14:36:35 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="77453335" key="SWAG-T2">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>leydia silva</createdBy>
+            <createdOn>2022-12-26 22:19:06 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[planos de teste]]></name>
+            <objective><![CDATA[testar o login SwagLabs]]></objective>
+            <owner>63692df22f8b3c8f116acd18</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="plain">
+                <details><![CDATA[<br />Acesso com sucesso<br /><br /><br />DADO que acesso a pagina do swaglabs<br />QUANDO preencho o campo email senha<br />E clico no bot&atilde;o login<br />ENT&Atilde;O acesso com sucesso<br /><br /><br />]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
